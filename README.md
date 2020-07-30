@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 [website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/mcmpistachio
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/chad-farnsworth-a0783b71

@@ -1,4 +1,8 @@
 ### Hi there 👋
+<br />
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+<br />
 
 <!--
 **mcmpistachio/mcmpistachio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

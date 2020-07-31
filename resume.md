@@ -1,11 +1,9 @@
 ### Education
 Johnson & Wales University | Denver, CO <br>
 Bachelor of Science, Entrepreneurship | 2011
->Consulted the development of Small Businesses
->
->Explored the concepts of Expansion, Change, Innovation, and Strategic Entrepreneurship
->
->Concentrations in
+>Consulted the development of Small Businesses<br>
+>Explored the concepts of Expansion, Change, Innovation, and Strategic Entrepreneurship<br>
+>Concentrations in:
 >>Operations Management<br>
 >>Human Resources Management<br>
 >>Applied Mathematics<br>

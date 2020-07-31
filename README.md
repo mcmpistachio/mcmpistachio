@@ -46,7 +46,7 @@
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website] -->
 <br>
 
-[Education and Work History](https://github.com/mcmpistachio/mcmpistachio/blob/master/resume.md)
+###[Education and Work History](https://github.com/mcmpistachio/mcmpistachio/blob/master/resume.md)
 
 <img align="left" alt="mcmPistachio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcmpistachio&show_icons=true&hide_border=true" />
 

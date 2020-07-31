@@ -1,3 +1,5 @@
+<!-- background: #8A8A8A -->
+
 ### Hi there, I'm Chad - aka [mcmPistachio][website] 👋
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with other content creators
@@ -40,8 +42,6 @@
 <br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcmpistachio&show_icons=true&hide_border=true" />
-
-<background: #8A8A8A>
 
 [website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/mcmpistachio

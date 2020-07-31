@@ -1,5 +1,3 @@
-<!-- background: #8A8A8A -->
-
 ### Hi there, I'm Chad - aka [mcmPistachio][website] 👋
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate with other content creators
@@ -17,8 +15,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Azure CosmosDB" width="60px" src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/cosmos-db.svg" />
-<img align="left" alt="Azure Functions" width="60px" src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/functions.svg" />
+<img align="left" alt="Azure CosmosDB" width="60px" src="https://docs.microsoft.com/en-us/azure/cosmos-db/media/index/azure-cosmos-db-icon.png" />
+<img align="left" alt="Azure Functions" width="60px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/0.22.1/1589575093461/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="" width="30px" src="" />
 
 <!-- [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()

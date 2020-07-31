@@ -13,28 +13,28 @@ Associates in Science, Entrepreneurship | 2009
 
 ### Organizations Served
 
-**Alpine Security, LLC** | March 2017 to Present
-IT Administrator/Finance Coordinator
-Hiring Coordinator/Finance Coordinator
+**Alpine Security, LLC** | March 2017 to Present<br>
+IT Administrator/Finance Coordinator<br>
+Hiring Coordinator/Finance Coordinator<br>
 
-**Petsmart** | June 2008 to March 2017
-Merchandise and Inventory Leader
-Customer Engagement Leader
-Pet Care Manager
-Support Manager
-Area Pet Training Instructor
-Pet Training Instructor
-Pet Care Associate
-Cashier
+**Petsmart** | June 2008 to March 2017<br>
+Merchandise and Inventory Leader<br>
+Customer Engagement Leader<br>
+Pet Care Manager<br>
+Support Manager<br>
+Area Pet Training Instructor<br>
+Pet Training Instructor<br>
+Pet Care Associate<br>
+Cashier<br>
 
-**Collegiate Entrepreneurship Association** | August 2010 to May 2011
-President	
+**Collegiate Entrepreneurship Association** | August 2010 to May 2011<br>
+President<br>
 
-**Collegiate DECA** | August 2008 to May 2009
-Vice President of Finance
+**Collegiate DECA** | August 2008 to May 2009<br>
+Vice President of Finance<br>
 
-**Student Government Association** | August 2008 to May 2009
-College of Business Senator
+**Student Government Association** | August 2008 to May 2009<br>
+College of Business Senator<br>
 
-**Student Affairs Office**, Johnson & Wales University, Denver Campus | August 2008 to May 2010
-Week of Welcome Orientation Leader
+**Student Affairs Office**, Johnson & Wales University, Denver Campus | August 2008 to May 2010<br>
+Week of Welcome Orientation Leader<br>

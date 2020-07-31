@@ -42,6 +42,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcmpistachio&show_icons=true&hide_border=true" />
 
 background: #FFFFFF
+
 [website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/mcmpistachio
 [linkedin]: https://linkedin.com/in/chad-farnsworth-a0783b71

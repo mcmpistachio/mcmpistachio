@@ -14,9 +14,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Azure CosmosDB" width="60px" src="https://docs.microsoft.com/en-us/azure/cosmos-db/media/index/azure-cosmos-db-icon.png" />
-<img align="left" alt="Azure Functions" width="60px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/0.22.1/1589575093461/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Power Apps" width="30px" src="https://media.collab365.community/c365jobs/wp-content/uploads/2017/11/01114344/PowerApps-Logo-478x405.png" />
+<img align="left" alt="Power Automate" width="30px" src="https://www.utdallas.edu/oit/files/flow.png" />
+<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Xamarin" width="30px" src="https://www.appdynamics.com/media/uploaded-images/1498715803/.thumbnails/xamarin-logo-1000x0_q100.png" />
+<img align="left" alt="" width="30px" src="" />
+<img align="left" alt="Powershell" width="30px" src="https://skype4bworld.files.wordpress.com/2017/11/powershell.png?w=700" />
+<img align="left" alt="Azure CosmosDB" width="30px" src="https://docs.microsoft.com/en-us/azure/cosmos-db/media/index/azure-cosmos-db-icon.png" />
+<img align="left" alt="Azure Functions" width="30px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurefunctions/0.22.1/1589575093461/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="" width="30px" src="" />
 
 <!-- [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()

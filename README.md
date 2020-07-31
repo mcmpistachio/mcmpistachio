@@ -1,9 +1,8 @@
 ### Hi there, I'm Chad - aka [mcmPistachio][website] 👋
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
-Looking to collaborate amongst a team to plan for innovation, from conceptualizing to maintaining technologies to improve business process. An out of the box thinker that is continually looking for new technologies and looking for ways that one technology can be connected to another for greater innovation.
+- Currently learning Azure Architecture and Cloud Infrastructure
+- Looking to collaborate amongst a team to plan for innovation, from conceptualizing to maintaining technologies to improve business process.
+- An out of the box thinker that is continually looking for new technologies and looking for ways that one technology can be connected to another for greater innovation.
+<!-- - 2020 Goals: Contribute more to Open Source projects -->
 
 ### Connect with me:
 

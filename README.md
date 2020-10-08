@@ -1,12 +1,17 @@
 ### Hi there, I'm Chad - aka [mcmPistachio][website] 👋
-- Currently learning Azure Architecture and Cloud Infrastructure
-- Looking to collaborate amongst a team to plan for innovation, from conceptualizing to maintaining technologies to improve business process.
-- An out of the box thinker that is continually looking for new technologies and looking for ways that one technology can be connected to another for greater innovation.
+- :books: Currently learning Azure Architecture and Cloud Infrastructure
+- :loudspeaker: Looking to collaborate amongst a team to plan for innovation, from conceptualizing to maintaining technologies to improve business process.
+- :bulb: An out of the box thinker that is continually looking for new technologies and looking for ways that one technology can be connected to another for greater innovation.
 <!-- - 2020 Goals: Contribute more to Open Source projects -->
+
+### Projects
+- [Company Credit Card Reciepts and Reconcilation: Power Platform]()
+<!-- - [Permission Matrix: SharePoint Online]() -->
+- [AgOS (planning)]()
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="codeSTACKr.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="Chad Farnsworth | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mcmPistachio | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Email Me" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mail-dot-ru.svg" />][email]
@@ -27,6 +32,7 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="" width="30px" src="" />
+<br />
 
 <!-- [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="Azure CosmosDB" width="30px" src="https://azure.microsoft.com/en-us/patterns/styles/glyphs-icons/cosmos-db.svg" />]()
@@ -45,11 +51,7 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website] -->
 
-<br />
-
 ### [Education and Work History](https://github.com/mcmpistachio/mcmpistachio/blob/master/resume.md)
-
-<img align="left" alt="mcmPistachio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcmpistachio&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [instagram]: https://instagram.com/mcmpistachio
